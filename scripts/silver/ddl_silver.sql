@@ -1,6 +1,7 @@
 /*
 This Script creates the tables for Silver schema 
-Remember : First it drops the existing table and then creates new one
+Remember : First it drops the existing table and then creates new one 
+so proceed with caution
 */
 
 DROP TABLE IF EXISTS silver.crm_cust_info;
